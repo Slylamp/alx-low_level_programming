@@ -2,7 +2,7 @@
 #define HOLBERTON_H_INCLUDED
 
 int _putchar(char);
-void print_alphabert(v0id);
+void print_alphabert(void);
 void print_alpabert_x10(void);
 int _islower(int c);
 int _isalpha(int c);
