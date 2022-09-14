@@ -1,0 +1,17 @@
+#include "main.h"
+
+/**
+ * print_alphabert - function to print abc
+ *
+ * Return: 0
+ */
+void print_alphabert(void)
+{
+	char c;
+
+	for (c = 'a'; c <= 'z'; c++)
+	{
+		_putchar(c);
+	}
+	_putchar('\n');
+}
