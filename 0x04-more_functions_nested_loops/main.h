@@ -2,8 +2,8 @@
 #define MAIN_H
 
 /**
- * main - headed file for prototypes
- * void prototypes (void)
+ * main - headed file for protoypes
+ * void protoypes (void)
  * int protoypes (int)
  */
 
@@ -21,3 +21,4 @@ int _isdigit(int);
 int mul(int, int);
 
 #endif
+
