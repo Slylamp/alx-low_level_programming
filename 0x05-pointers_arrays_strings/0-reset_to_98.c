@@ -4,7 +4,7 @@
  * Description: prints to 98
  */
 
-void resets_to_98(int *n)
+void reset_to_98(int *n)
 {
 	int c = 98;
 
