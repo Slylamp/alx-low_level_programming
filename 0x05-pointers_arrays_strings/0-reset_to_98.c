@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * reset_to_98 - prototype
  * @n: parameter
@@ -8,7 +6,7 @@
 
 void resets_to_98(int *n)
 {
-	int c =98;
+	int c = 98;
 
 
 	*n = c;
