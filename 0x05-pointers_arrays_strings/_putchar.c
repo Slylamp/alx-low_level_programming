@@ -3,12 +3,12 @@
 /**
  * _putchar - writes the character c stdout
  * @c: The character to print
- * 
+ *
  * Return: On success 1.
  * On error, -1 is returned, and error is there is returned
  */
 
 int _putchar(char c)
 {
-return (writes (1, &c, 1));
+	return write(1, &c, 1);
 }
